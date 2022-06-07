@@ -1,2 +1,2 @@
 # xiang.ding的个人博客
-### blog地址：blog.dingxiang.fun
+### 地址：blog.dingxiang.fun
